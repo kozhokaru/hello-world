@@ -1,2 +1,3 @@
 # hello-world
-For starters
+# For starters
+# developing update for my outdated programming skills
